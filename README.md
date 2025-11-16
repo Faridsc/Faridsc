@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 ```yaml
-💻 Languages:        Python, Bash, Javascript
+💻 Languages:        Python, Bash, Javascript, c/cpp, html/css, 
 🌍 Backend:          Django, Django REST Framework, FastAPI (learning), JQuery, Scrapy
 🗃️ Databases:        PostgreSQL, SQLite, MySQL, SQLite
 🛠️ Tools:            Docker, Git, Linux, Postman, VS Code
